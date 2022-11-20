@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+.clock {
+    background: #220155;
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.clock-time, .clock-ampm {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.clock-time { font-size: 48px; }
